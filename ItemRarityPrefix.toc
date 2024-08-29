@@ -1,0 +1,11 @@
+## Interface: 110002
+## Title: |cFFff8000Item Rarity|r Prefix
+## Notes: Adds |cFFff8000item rarity|r information in plain text format
+## Author: Loadren
+## Version: 1.0.0
+## SavedVariables: ItemRarityPrefixDB
+## X-Curse-Project-ID: 1093075
+## IconTexture: 3743188
+
+# Core files
+ItemRarityPrefix.lua
